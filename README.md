@@ -1,6 +1,6 @@
 # School-Portfolio
-ROV 
-Stands for our team members
+ROV our team logo,
+It Stands for our team members' names
 Remonde
 Vidal and
 Ong
